@@ -7,7 +7,7 @@ const page = () => {
       <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
         <blockquote>
           <p className="text-lg font-medium">
-            “We have provided here essays and paragraphs on my self in English which is a very common topic in schools. These essays and paragraphs are of variant word limits will help you in writing my self essay, my self paragraph, essay about my self, my self article or myself essay for kids etc.
+            “I am Umar Khalid.We have provided here essays and paragraphs on my self in English which is a very common topic in schools. These essays and paragraphs are of variant word limits will help you in writing my self essay, my self paragraph, essay about my self, my self article or myself essay for kids etc.
 
 These essays are written in a very simple language and easy to understand by the children. You can choose any of the essay on myself according to your requirements and earn the app”
           </p>
@@ -18,7 +18,7 @@ These essays are written in a very simple language and easy to understand by the
           </div>
           <div className="text-slate-700 dark:text-slate-500">
             ICS student
-            
+
           </div>
         </figcaption>
       </div>
